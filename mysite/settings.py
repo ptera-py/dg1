@@ -25,7 +25,7 @@ SECRET_KEY = '*-y&9yh0boy_zwui9)#3wr1_1reh88!+p#x@elhc^ur3#46don'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '127.168.0.0', '.fghfg.ru']
+ALLOWED_HOSTS = ['127.0.0.1', '127.168.0.0', '.fghfg.ru', 'ptera.pythonanywhere.com']
 
 
 # Application definition
